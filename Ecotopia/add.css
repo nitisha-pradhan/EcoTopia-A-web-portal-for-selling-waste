@@ -1,0 +1,33 @@
+#body-color{
+background-color:#6699CC;
+background-image:url('addevent.png');
+color: white;
+background-attachment: fixed;
+background-size: cover;
+font-weight: bold;
+font-size: 25px;
+margin-top: 150px;  
+margin-bottom: 80px;  
+margin-right: 10px;  
+margin-left: 10px; 
+}
+#add{
+
+margin-top:10px;
+margin-bottom:10px;
+margin-right:80px;
+margin-left:300px;
+padding:9px 35px;
+color: white;
+font-weight: bold;
+}
+#button{
+border-radius:10px;
+width:100px;
+height:40px;
+background:white;
+font-weight:bold;
+font-size:20px;
+color: #2c36a3;
+font-weight: bold;
+}
